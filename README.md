@@ -6,6 +6,8 @@
   
 # ODD AND EVEN
 
+    
+
 #include <iostream>
 using namespace std;
 
@@ -22,10 +24,12 @@ int main() {
 
     return 0;
 }
-
+    
 
 # NUMBER CHECKER
   
+  
+    
 #include <iostream>;
 using namespace std;
 int main() {
@@ -47,9 +51,11 @@ int main() {
 
         return 0;
 }
-
+    
 
 # SALE OR PROFIT
+                   
+                    
 #include <iostream>
 using namespace std; 
     int main()
@@ -76,9 +82,12 @@ using namespace std;
         return 0;
 
 }
-
+    
 
 # SHAPES
+                        
+                    
+                    
 #include <iostream>
 using namespace std;
 int main()
@@ -130,3 +139,4 @@ int main()
         cin.get();
         return 0;
 }
+      
