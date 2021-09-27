@@ -2,14 +2,13 @@
 9.27.2021 Lecture. Slides 24-27
 
 
+      
   
-  
-# ODD AND EVEN
-/*
-#include <iostream>
-using namespace std;
-
-int main() {
+# ODD AND EVEN    
+    #include <iostream>
+    using namespace std;
+    
+    int main() {
     int userNumber;
 
     cout << "Enter a number and I'll see if it's an odd or an even number! \n";
@@ -21,16 +20,16 @@ int main() {
         cout << "Looks like the number, " << userNumber << ". is an odd number!";
 
     return 0;
-}
+    }
 
 
 # NUMBER CHECKER
       
 
-#include <iostream>;
-using namespace std;
+    #include <iostream>;
+    using namespace std;
 
-int main() {
+    int main() {
     int userNumber;
 
     cout << "I'll identify is the number you write is either a zero, positive or negative number. Write one down: \n";
@@ -49,11 +48,11 @@ int main() {
 
         return 0;
 
-}
+      }
 
 # SALE OR PROFIT   
-#include <iostream>
-using namespace std; 
+    #include <iostream>
+    using namespace std; 
 
     int main()
     {
@@ -81,17 +80,17 @@ using namespace std;
 
         return 0;
 
-}
+    }
 
 
 # SHAPES
                         
-#include <iostream>
-using namespace std;
+     #include <iostream>
+      using namespace std;
 
-int main()
+    int main()
 
-{
+    {
     int sides;
     string shape;
     cout << "I'll name the shape based on what number you write down. Only up to 10 though. \n";
@@ -139,5 +138,5 @@ int main()
         cin.get();
         return 0;
 
-}
+    }
       
