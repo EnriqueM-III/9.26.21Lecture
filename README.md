@@ -4,7 +4,8 @@
 
   
   
-ODD AND EVEN
+# ODD AND EVEN
+
 #include <iostream>
 using namespace std;
 
@@ -23,10 +24,10 @@ int main() {
 }
 
 
-NUMBER CHECKER
+# NUMBER CHECKER
+  
 #include <iostream>;
 using namespace std;
-
 int main() {
     int userNumber;
 
@@ -45,17 +46,14 @@ int main() {
         }
 
         return 0;
-
 }
 
 
-SALE OR PROFIT
+# SALE OR PROFIT
 #include <iostream>
 using namespace std; 
-
     int main()
     {
-
         int purchasePrice, salePrice, prof;
 
         cout << "Insert Purchase Price: ";
@@ -64,7 +62,6 @@ using namespace std;
         cin >> salePrice;
 
         prof = (purchasePrice - salePrice);
-
 
         if (prof > 0) {
             cout << "You profited " << prof;
@@ -76,18 +73,15 @@ using namespace std;
         else {
             cout << "No profit nor loss. Neutral result";
         }
-
         return 0;
 
 }
 
 
-SHAPES
+# SHAPES
 #include <iostream>
 using namespace std;
-
 int main()
-
 {
     int sides;
     string shape;
@@ -135,5 +129,4 @@ int main()
 
         cin.get();
         return 0;
-
 }
