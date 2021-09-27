@@ -4,8 +4,9 @@
 
   
   
+
+
 // ODD AND EVEN
-/*
 #include <iostream>
 using namespace std;
 
@@ -22,10 +23,11 @@ int main() {
 
     return 0;
 }
-*/
 
-//NUMBER CHECKER
-/*
+
+
+
+ //NUMBER CHECKER
 #include <iostream>;
 using namespace std;
 
@@ -49,7 +51,7 @@ int main() {
         return 0;
 
 }
-*/
+
 
 /*
 //SALE OR PROFIT
